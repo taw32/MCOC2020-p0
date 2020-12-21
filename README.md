@@ -10,7 +10,4 @@
 * Memoria: 4 GB 1600 MHz DDR3 (frecuencia de RAM 1600 MHz)
 * Almacenamiento 251 GB Almacenamiento flach
 * Numero de nucleos
-* Grafica Intel HD Graphics 5000 1536 MB
-
-
-# Desempeño Matmul
+* Grafica Intel HD Graphics 5000 1536
