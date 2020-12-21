@@ -11,3 +11,6 @@
 * Almacenamiento 251 GB Almacenamiento flach
 * Numero de nucleos
 * Grafica Intel HD Graphics 5000 1536 MB
+
+
+# Desempeño Matmul
