@@ -14,13 +14,13 @@
 
 # Desempeño Matmul
 
-*¿en que difieren el gráfico del profesor con el del ayudante?
-+El gráfico del profesor pareciera que está hecho con un computador mas potente, ya que tiene la 
-*¿a que se deben estas diferencias?
-+Se deben a que son computadores distintos, y por ende difenrente memoria ram
-*El gráfico de uso de memoria es lineal con el tamaño de matriz, pero el de tiempo transcurrido no lo es ¿porqué puede ser?
-+el grafico de uso de memoria es lineal porque a medida que aumenta el tamaño de la matriz, a si mismo aumenta la memoria, en cambio, cuando ya se esté usando un núcleo, para las matrices mas grandes, luego se va a demorar mas en  hacer los otros 
-*¿Qué versión de python está usando?
-+python 3.8
-*¿Qué versión de numpy está usando?
-+La por defecto de anaconda
+* ¿en que difieren el gráfico del profesor con el del ayudante?
++ El gráfico del profesor pareciera que está hecho con un computador mas potente, ya que tiene la 
+* ¿a que se deben estas diferencias?
++ Se deben a que son computadores distintos, y por ende difenrente memoria ram
+* El gráfico de uso de memoria es lineal con el tamaño de matriz, pero el de tiempo transcurrido no lo es ¿porqué puede ser?
++ el grafico de uso de memoria es lineal porque a medida que aumenta el tamaño de la matriz, a si mismo aumenta la memoria, en cambio, cuando ya se esté usando un núcleo, para las matrices mas grandes, luego se va a demorar mas en  hacer los otros 
+* ¿Qué versión de python está usando?
++ python 3.8
+* ¿Qué versión de numpy está usando?
++ La por defecto de anaconda
